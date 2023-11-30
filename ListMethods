@@ -1,0 +1,8 @@
+Most important List Methods
+1.Append
+2.sort
+3.sort(reverse=True)
+4.count()
+5.extend()
+6.copy()
+7.index()
